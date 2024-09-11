@@ -1,0 +1,7 @@
+nev	magassag	suly	cipomeret
+Béla	160	60	41 
+Dani	168	64	40 
+Károly	179	91	45 
+Péter	186	83	44 
+Sándor 	170	63	39 
+Tamás	171	110	42 

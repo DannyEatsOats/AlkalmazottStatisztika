@@ -1,0 +1,113 @@
+Timestamp;Nem;Kor;Lakohely;Vegzettseg;Statusz;Jovedelem;Matek;Magyar;Sport;Hangszer;Stressz;Dohanyzas;Alkohol;Csaladi;Auto;Suly;Idealsuly;Magassag;Cipo;Szemszin;Hajszin;Elegedettseg
+9.13.2016 17:31:38;nõ;43;város;Fõiskola/egyetem;dolgozik;245000;4;4;rendszeresen;nem;igen;nem;0;elvált/özvegy;van;62;60;150;36;zöld;barna;6
+9.14.2016 19:36:10;nõ;30;város;Fõiskola/egyetem;dolgozik;134000;5;5;néha;igen;igen;nem;0;kapcsolatban;nincs;88;65;165;38;barna;barna;6
+9.15.2016 12:04:24;férfi;23;város;Fõiskola/egyetem;diák;;5;5;néha;igen;nem;nem;5;kapcsolatban;nincs;83;82;188;44;barna;barna;6
+9.15.2016 12:27:00;nõ;22;falu;Fõiskola/egyetem;diák;0;5;4;néha;nem;nem;nem;1;kapcsolatban;nincs;70;60;170;38;zöld;szõke;6
+9.15.2016 12:28:54;nõ;24;város;Fõiskola/egyetem;diák;;5;5;néha;nem;igen;nem;5;kapcsolatban;nincs;62;60;176;38;barna;barna;5
+9.19.2016 21:56:29;nõ;17;város;Általános iskola;diák;;5;5;néha;igen;igen;nem;2;kapcsolatban;nincs;51;51;169;37,5;kék;barna;5
+9.20.2016 22:21:49;férfi;37;falu;Fõiskola/egyetem;egyik sem;;3;4;néha;igen;igen;igen;8;egyedülálló;van;68;80;178;42;barna;barna;6
+9.21.2016 11:44:34;nõ;29;város;Fõiskola/egyetem;dolgozik;115000;5;5;nem;nem;nem;nem;1;egyedülálló;nincs;50;57;170;39;szürke;barna;5
+9.21.2016 12:03:36;férfi;28;város;Fõiskola/egyetem;diák, dolgozik;130000;5;5;néha;nem;igen;nem;1;kapcsolatban;nincs;75;75;190;45;zöld;barna;6
+9.21.2016 12:19:26;férfi;38;város;Fõiskola/egyetem;dolgozik;400000;5;5;rendszeresen;nem;igen;nem;3;házas;van;90;80;175;43;kék;barna;6
+9.21.2016 19:14:17;férfi;20;város;Középiskola;diák;;4;5;rendszeresen;igen;nem;nem;3;kapcsolatban;van;85;95;200;47;barna;barna;6
+9.21.2016 20:04:30;férfi;20;város;Középiskola;diák;;5;5;rendszeresen;igen;igen;nem;5;kapcsolatban;nincs;80;83;183;41;zöld;fekete;5
+9.22.2016 9:12:35;férfi;41;város;Fõiskola/egyetem;dolgozik;240000;5;5;néha;igen;igen;nem;1;házas;nincs;72;82;191;42;barna;barna;5
+9.22.2016 14:00:03;nõ;18;város;Fõiskola/egyetem;diák;;5;5;rendszeresen;nem;nem;nem;0;egyedülálló;nincs;65;60;165;39;kék;barna;6
+9.22.2016 14:00:11;férfi;19;falu;Középiskola;diák;;5;5;néha;nem;igen;nem;0;kapcsolatban;nincs;65;70;184;45;barna;barna;5
+9.22.2016 14:00:14;férfi;20;város;Középiskola;diák;;4;5;rendszeresen;igen;nem;nem;2;kapcsolatban;nincs;82;92;198;46;barna;barna;6
+9.22.2016 14:00:24;férfi;18;város;Középiskola;diák;;5;5;rendszeresen;nem;igen;nem;2;kapcsolatban;nincs;72;80;174;41;barna;barna;3
+9.22.2016 14:00:29;nõ;19;város;Középiskola;diák;;5;5;rendszeresen;igen;igen;nem;2;egyedülálló;nincs;43;46;165;38;barna;barna;6
+9.22.2016 14:00:30;nõ;19;város;Középiskola;diák;;5;5;rendszeresen;nem;igen;nem;4;kapcsolatban;van;56;56;172;40;zöld;szõke;6
+9.22.2016 14:00:31;nõ;20;város;Középiskola;diák;;4;5;néha;igen;igen;nem;6;egyedülálló;nincs;78;68;166;40;kék;szõke;5
+9.22.2016 14:00:41;férfi;18;város;Középiskola;diák;;5;5;rendszeresen;nem;igen;nem;4;egyedülálló;nincs;67;80;184;44;kék;barna;6
+9.22.2016 14:00:46;nõ;19;város;Középiskola;diák;;5;5;rendszeresen;igen;igen;nem;5;egyedülálló;van;56;50;160;35;szürke;szõke;5
+9.22.2016 14:01:04;nõ;21;falu;Középiskola;diák;;5;5;rendszeresen;igen;igen;nem;4;kapcsolatban;nincs;46;46;160;38;barna;szõke;6
+9.22.2016 14:01:07;nõ;20;város;Középiskola;diák;;5;5;rendszeresen;nem;nem;nem;5;egyedülálló;nincs;54;48;170;38;zöld;szõke;5
+9.22.2016 14:01:21;nõ;20;város;Középiskola;diák;0;5;5;néha;igen;nem;nem;0;egyedülálló;nincs;61;55;168;40;zöld;barna;6
+9.22.2016 14:01:30;nõ;18;falu;Középiskola;diák;;5;5;rendszeresen;igen;nem;nem;3;kapcsolatban;nincs;58;58;170;39;zöld;barna;7
+9.22.2016 14:01:33;nõ;27;város;Fõiskola/egyetem;dolgozik;133650;4;5;rendszeresen;igen;igen;nem;4;házas;van;50;52;170;38;kék;szõke;6
+9.22.2016 14:02:11;férfi;19;város;Középiskola;diák;;5;5;nem;nem;igen;nem;3;kapcsolatban;nincs;76;75;172;43;kék;barna;5
+9.28.2016 9:57:40;nõ;22;város;Középiskola;diák;;5;5;néha;igen;igen;igen;25;kapcsolatban;nincs;55;52;163;39;barna;barna;3
+9.28.2016 11:02:55;férfi;22;város;Középiskola;diák, dolgozik;200000;5;3;néha;igen;nem;nem;6;egyedülálló;nincs;85;75;185;46;barna;vörös;6
+9.28.2016 16:43:29;férfi;23;falu;Fõiskola/egyetem;diák;;5;5;néha;igen;nem;igen;17;egyedülálló;nincs;75;75;195;46;szürke;barna;6
+9.29.2016 22:46:58;nõ;20;város;Középiskola;diák;;5;5;néha;igen;nem;nem;0;házas;nincs;63;60;170;40;barna;barna;7
+9.30.2016 8:05:17;férfi;53;város;Fõiskola/egyetem;dolgozik;300000;5;5;;nem;igen;igen;5;házas;van;85;75;174;45;kék;szõke;6
+9.30.2016 8:57:09;férfi;33;város;Fõiskola/egyetem;dolgozik;250000;5;4;néha;nem;nem;nem;10;házas;van;72;68;173;41;kék;barna;6
+9.30.2016 9:08:38;férfi;21;város;Középiskola;diák, dolgozik;180000;4;5;néha;nem;nem;nem;0;kapcsolatban;nincs;68;75;182;42;kék;barna;6
+9.30.2016 9:12:16;nõ;25;falu;Fõiskola/egyetem;dolgozik;120000;5;5;rendszeresen;nem;igen;nem;1;egyedülálló;nincs;52;55;161;39;kék;barna;5
+9.30.2016 9:27:20;férfi;22;város;Fõiskola/egyetem;diák;;5;5;néha;igen;igen;nem;6;egyedülálló;nincs;60;65;170;41;barna;barna;4
+9.30.2016 9:30:11;férfi;23;város;Fõiskola/egyetem;egyik sem;140000;5;5;rendszeresen;nem;nem;nem;25;kapcsolatban;nincs;76;80;175;43;barna;barna;6
+9.30.2016 9:37:43;férfi;25;falu;Fõiskola/egyetem;diák;;5;5;nem;nem;igen;nem;5;egyedülálló;van;50;50;175;175;barna;fekete;5
+9.30.2016 9:41:27;nõ;14;város;Középiskola;diák;;5;5;néha;igen;igen;nem;4;egyedülálló;nincs;58;57;173;38;zöld;szõke;6
+9.30.2016 10:23:42;nõ;33;város;Fõiskola/egyetem;dolgozik;130000;5;5;rendszeresen;nem;nem;nem;12;kapcsolatban;nincs;54;54;169;39;barna;barna;5
+9.30.2016 10:49:51;férfi;25;város;Fõiskola/egyetem;diák, dolgozik;55000;5;4;rendszeresen;nem;igen;nem;10;kapcsolatban;nincs;67;70;183;43;zöld;barna;6
+9.30.2016 10:50:09;nõ;21;város;Fõiskola/egyetem;diák;;5;5;néha;nem;igen;nem;8;egyedülálló;nincs;62;58;170;38;kék;szõke;6
+9.30.2016 12:12:31;férfi;31;város;Középiskola;dolgozik;133000;3;3;;nem;igen;nem;2;házas;van;78;75;183;43;barna;barna;7
+9.30.2016 12:48:14;nõ;53;város;Fõiskola/egyetem;dolgozik;180000;5;5;néha;igen;igen;nem;0;elvált/özvegy;nincs;75;65;167;38;barna;barna;
+9.30.2016 12:57:16;nõ;34;város;Fõiskola/egyetem;dolgozik;163000;2;5;néha;igen;igen;igen;4;kapcsolatban;nincs;56;50;163;37;kék;barna;5
+9.30.2016 13:02:23;nõ;22;város;Középiskola;dolgozik;75000;5;5;néha;igen;igen;igen;10;kapcsolatban;nincs;68;63;174;36;kék;szõke;5
+9.30.2016 13:03:48;nõ;;város;Fõiskola/egyetem;dolgozik;330000;5;5;néha;nem;igen;nem;4;elvált/özvegy;nincs;68;68;167;36;kék;barna;5
+9.30.2016 13:13:14;nõ;30;város;Fõiskola/egyetem;dolgozik;175000;5;5;rendszeresen;nem;nem;nem;3;házas;van;68;68;175;39;kék;barna;6
+9.30.2016 13:20:55;nõ;25;város;Fõiskola/egyetem;diák, dolgozik;100000;5;5;néha;nem;igen;nem;4;kapcsolatban;van;50;50;158;37;barna;barna;7
+9.30.2016 13:45:41;nõ;66;egyéb;Fõiskola/egyetem;egyik sem;;5;5;rendszeresen;igen;nem;nem;1;elvált/özvegy;van;76;70;170;39;szürke;vörös;6
+9.30.2016 13:48:20;nõ;51;város;Fõiskola/egyetem;dolgozik;299000;5;5;néha;igen;igen;nem;6;házas;nincs;63;55;163;37;barna;barna;6
+9.30.2016 13:59:43;férfi;18;egyéb;Általános iskola;diák;;4;4;néha;nem;nem;nem;3;egyedülálló;nincs;57;57;168;41;kék;szõke;6
+9.30.2016 14:02:43;férfi;18;falu;Általános iskola;diák;;5;4;rendszeresen;igen;nem;nem;1;egyedülálló;nincs;72;77;182;43;kék;szõke;5
+9.30.2016 14:17:51;férfi;65;város;Fõiskola/egyetem;egyik sem;;4;4;nem;igen;nem;nem;30;házas;van;103;100;190;46;barna;barna;7
+9.30.2016 15:53:16;nõ;29;város;Fõiskola/egyetem;dolgozik;116000;5;5;néha;igen;nem;nem;0;házas;van;51;51;167;38;kék;barna;6
+9.30.2016 16:35:00;férfi;19;város;Középiskola;diák, dolgozik;60000;5;5;néha;igen;igen;igen;8;egyedülálló;van;75;80;190;44;zöld;barna;6
+9.30.2016 16:41:44;férfi;32;város;Középiskola;egyik sem;;5;4;nem;nem;igen;nem;0;egyedülálló;nincs;110;90;188;45;barna;barna;5
+9.30.2016 17:22:11;férfi;40;város;Fõiskola/egyetem;dolgozik;250000;5;5;néha;nem;igen;nem;15;kapcsolatban;van;90;80;185;45;szürke;barna;6
+9.30.2016 18:05:55;nõ;23;város;Középiskola;diák;;5;5;néha;nem;igen;nem;2;egyedülálló;nincs;110;80;167;38;barna;barna;6
+9.30.2016 20:11:02;nõ;50;város;Fõiskola/egyetem;dolgozik;210000;5;4;néha;nem;igen;igen;0;házas;nincs;65;60;162;37;zöld;barna;6
+9.30.2016 20:21:22;nõ;53;város;Fõiskola/egyetem;dolgozik;170000;5;;rendszeresen;nem;igen;igen;0;házas;van;;54;164;37;zöld;barna;1
+9.30.2016 22:19:07;férfi;61;város;Fõiskola/egyetem;dolgozik;530000;5;5;néha;igen;nem;nem;10;házas;van;67;64;168;42;kék;barna;6
+9.30.2016 23:40:50;nõ;54;város;Középiskola;dolgozik;;4;3;;igen;igen;nem;6;házas;nincs;;;;;;barna;2
+10.1.2016 12:06:03;nõ;40;város;Fõiskola/egyetem;;290000;5;5;rendszeresen;nem;igen;nem;0;házas;van;82;77;186;42;zöld;barna;6
+10.4.2016 8:11:11;nõ;57;város;Középiskola;egyik sem;95000;3;3;néha;nem;nem;nem;3;házas;van;49;49;151;37;barna;barna;5
+10.6.2016 13:23:03;férfi;25;város;Fõiskola/egyetem;diák;;3;4;néha;nem;nem;nem;0;házas;nincs;63;65;178;42;barna;barna;6
+10.14.2016 15:13:16;férfi;24;város;Fõiskola/egyetem;diák, dolgozik;50000;3;5;rendszeresen;nem;igen;nem;1;kapcsolatban;nincs;87;80;189;42;barna;barna;3
+2.21.2017 17:54:47;férfi;21;város;Középiskola;diák;;5;3;néha;nem;nem;nem;3;egyedülálló;nincs;85;80;175;43;kék;szõke;5
+2.21.2017 21:22:28;férfi;20;város;Középiskola;diák;;5;5;néha;igen;igen;nem;1;kapcsolatban;nincs;57;65;175;41;barna;fekete;5
+2.21.2017 21:22:33;nõ;21;város;Középiskola;diák;;5;4;néha;igen;igen;nem;0;kapcsolatban;nincs;58;50;164;38;zöld;barna;5
+2.22.2017 17:18:03;férfi;20;város;Középiskola;diák;;5;4;néha;nem;nem;nem;8;egyedülálló;nincs;64;67;180;42;barna;barna;4
+2.23.2017 12:10:40;nõ;20;város;Középiskola;diák;;4;4;néha;nem;igen;nem;2;egyedülálló;van;58;54;156;37;barna;barna;4
+2.23.2017 12:11:02;nõ;20;város;Középiskola;diák;;5;5;nem;nem;igen;igen;12;kapcsolatban;nincs;53;53;169;39;barna;barna;6
+2.23.2017 12:13:09;nõ;20;város;Középiskola;diák;50000;5;4;rendszeresen;nem;igen;nem;2;kapcsolatban;van;52;48;160;36;barna;barna;5
+2.23.2017 12:17:36;férfi;53;város;Általános iskola;dolgozik;160000;2;5;nem;igen;nem;nem;30;házas;van;150;300;185;48;barna;barna;4
+2.23.2017 12:34:45;nõ;21;város;Középiskola;diák;;5;4;rendszeresen;igen;igen;nem;0;egyedülálló;nincs;55;55;165;39;kék;barna;5
+2.24.2017 5:42:58;férfi;20;város;Középiskola;diák;;4;4;rendszeresen;igen;nem;nem;4;egyedülálló;nincs;72;75;174;42;barna;barna;7
+2.26.2017 11:51:58;férfi;20;város;Középiskola;diák;;5;5;rendszeresen;igen;nem;nem;1;egyedülálló;nincs;62;75;181;43;kék;szõke;5
+9.5.2017 9:13:53;férfi;25;város;Fõiskola/egyetem;diák;;4;3;nem;nem;igen;nem;0;egyedülálló;nincs;72;72;175;43;barna;barna;3
+9.5.2017 9:56:20;nõ;27;város;Fõiskola/egyetem;diák, dolgozik;140000;3;5;néha;nem;igen;nem;5;kapcsolatban;nincs;51;51;162;38;barna;barna;5
+9.5.2017 11:33:11;férfi;29;város;Fõiskola/egyetem;dolgozik;137000;4;4;rendszeresen;igen;igen;nem;10;házas;van;73;73;170;41;barna;barna;5
+9.5.2017 16:45:39;nõ;21;város;Fõiskola/egyetem;diák;;5;5;rendszeresen;igen;igen;nem;10;egyedülálló;nincs;69;65;168;38;kék;barna;7
+9.5.2017 17:17:37;férfi;34;város;Fõiskola/egyetem;diák, dolgozik;200000;4;4;néha;nem;nem;nem;5;egyedülálló;nincs;63;63;167;42;kék;szõke;5
+9.7.2017 11:59:45;férfi;23;falu;Középiskola;diák;;5;5;rendszeresen;nem;nem;nem;12;elvált/özvegy;nincs;92;82;173;44;kék;barna;5
+9.8.2017 13:53:43;nõ;23;város;Fõiskola/egyetem;diák;;2;5;néha;igen;nem;nem;0;kapcsolatban;nincs;53;51;161;37;kék;barna;5
+9.12.2017 10:16:44;férfi;23;város;Fõiskola/egyetem;diák;;4;4;nem;nem;igen;nem;10;egyedülálló;nincs;100;70;176;44;barna;barna;4
+9.12.2017 11:00:46;nõ;23;város;Fõiskola/egyetem;diák;;2;5;néha;nem;igen;nem;1;kapcsolatban;nincs;53;50;169;37;barna;szõke;4
+9.12.2017 11:20:48;férfi;24;város;Fõiskola/egyetem;diák;;5;5;nem;nem;igen;nem;2;kapcsolatban;van;68;65;181;43;barna;fekete;6
+9.14.2017 10:16:22;nõ;22;falu;Középiskola;diák;;5;5;néha;nem;igen;nem;10;egyedülálló;nincs;62;65;175;41;kék;barna;5
+9.14.2017 22:41:33;nõ;23;falu;Középiskola;diák;;5;4;néha;nem;igen;nem;8;kapcsolatban;van;65;60;165;39;kék;barna;5
+9.15.2017 13:05:56;nõ;28;város;Fõiskola/egyetem;dolgozik;58000;3;4;néha;igen;igen;nem;6;kapcsolatban;nincs;69;56;173;42;barna;barna;5
+9.26.2017 10:41:41;férfi;25;falu;Fõiskola/egyetem;diák;;3;3;néha;nem;igen;nem;10;kapcsolatban;nincs;95;85;185;44;zöld;barna;5
+9.10.2018 12:15:59;férfi;23;város;Fõiskola/egyetem;diák;;4;4;néha;igen;nem;nem;10;kapcsolatban;nincs;73;65;180;43;barna;barna;5
+9.10.2018 12:21:18;nõ;22;város;Fõiskola/egyetem;diák;;5;5;rendszeresen;igen;igen;nem;12;egyedülálló;nincs;66;64;170;39;kék;barna;6
+9.20.2018 16:09:58;nõ;22;város;Középiskola;diák;;5;5;nem;igen;nem;nem;4;házas;nincs;72;65;167;39;kék;barna;6
+11.12.2018 11:09:18;férfi;24;falu;Fõiskola/egyetem;diák;;3;4;néha;nem;nem;nem;3;egyedülálló;nincs;88;80;185;44;zöld;barna;5
+3.20.2019 14:39:43;férfi;23;város;Középiskola;diák;;5;3;néha;nem;nem;nem;1;egyedülálló;nincs;80;75;180;43;kék;szõke;6
+3.20.2019 14:43:00;férfi;24;város;Középiskola;diák, dolgozik;150000;5;3;nem;nem;igen;igen;5;kapcsolatban;van;120;120;180;46;barna;fekete;3
+3.20.2019 18:04:04;férfi;23;falu;Középiskola;diák;;3;5;néha;igen;igen;nem;1;egyedülálló;nincs;83;83;189;47;zöld;fekete;4
+3.20.2019 20:32:42;férfi;26;falu;Középiskola;diák;;5;4;néha;igen;igen;nem;0;egyedülálló;nincs;100;70;176;43;barna;;1
+3.20.2019 22:09:02;nõ;22;falu;Középiskola;diák;;5;3;néha;igen;igen;nem;1;kapcsolatban;nincs;75;60;168;38;barna;barna;5
+3.20.2019 23:09:20;nõ;24;falu;Fõiskola/egyetem;diák;;5;4;rendszeresen;nem;nem;nem;0;egyedülálló;van;68;64;168;39;zöld;barna;6
+3.21.2019 7:07:03;nõ;20;falu;Középiskola;diák;;2;5;néha;nem;nem;nem;7;kapcsolatban;nincs;54;52;165;37,5;zöld;barna;7
+3.21.2019 19:32:47;nõ;34;falu;Fõiskola/egyetem;egyik sem;;5;5;rendszeresen;igen;igen;nem;4;házas;nincs;63;57;166;39;zöld;barna;5
+3.21.2019 19:38:33;nõ;60;falu;Fõiskola/egyetem;dolgozik;214000;4;5;nem;igen;nem;nem;30;házas;nincs;62;58;155;37;barna;fekete;6
+3.21.2019 20:08:46;nõ;35;falu;Középiskola;diák, dolgozik;180000;5;3;rendszeresen;igen;igen;nem;0;egyedülálló;nincs;64;57;162;38;barna;szõke;2
+3.21.2019 20:12:01;férfi;27;falu;Középiskola;diák, dolgozik;60000;3;4;rendszeresen;igen;igen;nem;30;egyedülálló;nincs;70;65;172;42;barna;szõke;5
+3.25.2019 21:40:12;nõ;21;falu;Középiskola;diák;;5;5;néha;igen;igen;igen;5;egyedülálló;nincs;63;;173;39;barna;fekete;5
+4.1.2019 19:04:35;nõ;22;város;Középiskola;diák, dolgozik;150000;5;5;néha;igen;igen;nem;0;kapcsolatban;van;68;50;155;36;kék;barna;5
+4.2.2019 8:20:09;nõ;20;város;Középiskola;diák;;5;4;néha;nem;igen;nem;2;kapcsolatban;nincs;58;55;170;39;zöld;barna;6
+4.3.2019 12:58:31;férfi;21;város;Középiskola;diák;;5;3;rendszeresen;nem;nem;nem;9;kapcsolatban;nincs;90;76;183;43;barna;barna;6
